@@ -1,7 +1,7 @@
 ## Memo-UNet: Leveraging Historical Information for Enhanced Significant Wave Height Prediction
 
 
-<div align="center"><img width="98%" src="memounet.png" /></div>
+<div align="center"><img width="98%" src="memounet.svg" /></div>
 
 
 > 
